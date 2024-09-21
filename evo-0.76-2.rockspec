@@ -2,7 +2,7 @@ package = "evo"
 version = "0.76-2"
 source = {
     url = "https://codeload.github.com/0xh7/evo/zip/refs/heads/main",
-    dir = "evo-main"  
+    dir = "evo-main"
 }
 description = {
     summary = "The evo library is a library for creating HTML element websites.",
@@ -18,6 +18,6 @@ dependencies = {
 build = {
     type = "builtin",
     modules = {
-        evo = "evo.lua"
+        min = "main.lua"  
     }
 }
