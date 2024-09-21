@@ -18,6 +18,6 @@ dependencies = {
 build = {
     type = "builtin",
     modules = {
-        min = "main.lua"  
+        evo = "evo.lua"    
     }
 }
