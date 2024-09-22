@@ -18,7 +18,6 @@ dependencies = {
 build = {
     type = "builtin",
     modules = {
-        evo = "evo.lua"  
+        evo = "evo-main/evo.lua"  -- Adjust the path accordingly
     }
 }
-
