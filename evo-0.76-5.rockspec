@@ -1,9 +1,10 @@
 package = "evo"
 version = "0.76-5"
 source = {
-    url = "https://github.com/0xh7/evo.git",
-    dir = "evo"
+    url = "https://github.com/0xh7/evo/archive/refs/heads/main.zip",
+    dir = "evo-main"
 }
+
 description = {
     summary = "The evo library is a library for creating HTML element websites.",
     detailed = [[
